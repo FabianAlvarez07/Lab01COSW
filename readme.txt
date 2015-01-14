@@ -7,3 +7,5 @@ git clone url
 getting data to ferchogarc010
 Modificacion en el mismo lugar
 git pull --rebase "url" master
+Linea de LUFEDI
+
