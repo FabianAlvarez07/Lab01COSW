@@ -6,3 +6,4 @@ git push url master
 git clone url
 getting data to ferchogarc010
 Modificacion en el mismo lugar
+git pull --rebase "url" master
